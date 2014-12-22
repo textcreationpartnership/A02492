@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A sermon preached at Barstaple vpon occasion of the late happy success of Gods Church in forraine pa
+
 #####Body#####
-A sermon preached at Barstaple vpon occasion of the late happy success of Gods Church in forraine pa
+
+1. A SERMON PREACHED AT BARSTAPLE VPON OCCASION OF THE LATE HAPPY SVCCESSE OF GODS CHVRCH IN FORRAINE PARTS.
+
 **Types of content**
 
   * There are 11 **verse** lines!
